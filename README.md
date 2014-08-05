@@ -1,6 +1,6 @@
 Linguagem R
-Parte do "Data Science" - Especialização »
 ======================
+
 Learn how to program in R and how to use R for effective data analysis. This is the second course in the Johns Hopkins Data Science Specialization.
 
 Ministrado por Roger D. Peng, PhD, Jeff Leek, PhD, Brian Caffo, PhD
