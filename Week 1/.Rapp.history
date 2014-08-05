@@ -1,0 +1,33 @@
+read.csv("data.csv");
+dir()
+dir()
+dir()
+getwd()
+ls()
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}
+myfunction()
+myfunction()
+myfunction()
+myfunction()
+myfunction()
+ls()
+ls()
+getwd()
+ls()
+source("myfunction.R");
+myfunction();
+source("myfunction.R");
+second(4)
+source("myfunction.R");
+second(4)
+second(4:3);
+ls()
+source("myfunction.R");
+second(4)
+second(4:19)
+second(4:10)
+second(4:10)
+second(4:10)
